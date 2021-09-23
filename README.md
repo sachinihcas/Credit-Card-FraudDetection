@@ -21,4 +21,6 @@ F1-Score
 
 Result of the project: The performance of various models is listed below:
 
-![alt text](https://github.com/sachinihcas/covidmanagementsystem/blob/main/Vaccine%20management%20ER.jpg)
+![alt text](https://github.com/sachinihcas/Credit-Card-FraudDetection/blob/main/resultdata.jpeg)
+
+
