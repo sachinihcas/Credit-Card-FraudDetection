@@ -19,6 +19,7 @@ Precision
 Recall score
 F1-Score
 
+Here I used various classification algorithms to classify whether the transaction is fraud or not.
 Result of the project: The performance of various models is listed below:
 
 ![alt text](https://github.com/sachinihcas/Credit-Card-FraudDetection/blob/main/resultdata.jpeg)
